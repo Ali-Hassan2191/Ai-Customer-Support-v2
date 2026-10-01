@@ -1,0 +1,9 @@
+streamlit>=1.40
+crewai[google-genai]
+google-genai
+faiss-cpu
+sentence-transformers
+pandas
+openpyxl
+numpy
+pysqlite3-binary; sys_platform == "linux"

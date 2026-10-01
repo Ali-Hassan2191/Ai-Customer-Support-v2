@@ -1,0 +1,814 @@
+[
+  {
+    "chunk_id": 0,
+    "text": "Aura Retail Enterprises\nCustomer Experience Division  |  Pakistan\nCustomer Service Knowledge Base\n& Agent Policy Guidelines\nOfficial reference for customer policies, support procedures and AI/human agent knowledge\nnotes.\nDocument Title\nCustomer Service Knowledge Base & Agent Policy Guidelines\nCompany\nAura Retail Enterprises\nDepartment\nCustomer Experience & Support\nDocument ID\nARE-CX-KB-2026-001\nVersion / Date\n1.0 | 01 October 2026\nClassification\nConfidential - Internal Use Only\nDocument Owner\nHead of Customer Experience\nIntended Audience\nCustomer service agents, supervisors, QA team and AI support agents (CrewAI)\nReview Cycle\nEvery 6 months or on any major policy change\nImportant",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 1,
+      "chunk_number": 1,
+      "document_type": "pdf",
+      "text_length": 688,
+      "chunk_id": 0,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 1,
+    "text": "Customer service agents, supervisors, QA team and AI support agents (CrewAI)\nReview Cycle\nEvery 6 months or on any major policy change\nImportant\nThis document is the single source of truth for all customer-facing answers. If a customer question is not covered\nhere, the agent must escalate to a supervisor and must never guess or invent a policy.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 1,
+      "chunk_number": 2,
+      "document_type": "pdf",
+      "text_length": 346,
+      "chunk_id": 1,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 2,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 2\nTable of Contents\n No.\nSection\nPage\n1.\nIntroduction and Purpose\n3\n2.\nCompany Overview\n3\n3.\nAgent Role, Tone and Communication Standards\n4\n4.\nCustomer Verification and Data Privacy\n5\n5.\nOrder Management Policy\n5\n6.\nShipping and Delivery Policy\n6\n7.\nPayment Policy\n7\n8.\nCancellation Policy\n8\n9.\nReturn and Refund Policy\n9\n10.\nExchange and Warranty Policy\n10\n11.\nComplaint Handling and Escalation Matrix\n11\n12.\nAgent Knowledge Base Notes\n12\n13.\nSample Conversation Scripts\n14\n14.\nFrequently Asked Questions (FAQs)\n14\n15.\nGlossary and Revision History\n16",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 2,
+      "chunk_number": 3,
+      "document_type": "pdf",
+      "text_length": 705,
+      "chunk_id": 2,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 3,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 3\n1. Introduction and Purpose\nThis document defines the customer service policies of Aura Retail Enterprises and provides the knowledge\nbase that every support agent - human or AI-powered - must use while helping customers. It ensures that all\ncustomers receive accurate, consistent and respectful service regardless of the channel they use or the agent\nthey speak to.\n1.1 Objectives\n\nProvide one clear, approved source of truth for all customer-facing policies.\n\nReduce errors, contradictions and unauthorized promises made to customers.\n\nEnable fast first-contact resolution with defined timelines and decision limits.\n",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 3,
+      "chunk_number": 4,
+      "document_type": "pdf",
+      "text_length": 778,
+      "chunk_id": 3,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 4,
+    "text": "\nEnable fast first-contact resolution with defined timelines and decision limits.\n\nProtect customer data and company reputation through clear privacy and escalation rules.\n\nServe as the primary knowledge source for the company's AI customer service agent.\n1.2 Scope\nThese guidelines apply to all customer interactions via phone (UAN helpline), WhatsApp, live chat, e-mail, social\nmedia (Facebook, Instagram) and the AI virtual assistant on the company website and mobile application. They\ncover pre-sale queries, order tracking, delivery, payments, cancellations, returns, refunds, exchanges, warranty\nand complaints.\n1.3 How to Use This Document\nAgents should search this document by topic before replying. Boxes marked Agent Note contain internal",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 3,
+      "chunk_number": 5,
+      "document_type": "pdf",
+      "text_length": 751,
+      "chunk_id": 4,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 5,
+    "text": "and complaints.\n1.3 How to Use This Document\nAgents should search this document by topic before replying. Boxes marked Agent Note contain internal\ninstructions and must never be copied word for word to the customer. Tables list fixed values (timelines, charges,\nlimits) which must be quoted exactly.\n2. Company Overview\nAura Retail Enterprises is a Pakistan-based multi-category retail company serving customers through its\ne-commerce website, mobile app and partner retail outlets. The company offers consumer electronics, home\nappliances, fashion and lifestyle products, furniture and everyday household goods, with delivery across Pakistan.\nItem\nDetails\nCompany Name\nAura Retail Enterprises\nIndustry\nRetail and E-Commerce\nHead Office\nLahore, Punjab, Pakistan\nFulfilment Centres",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 3,
+      "chunk_number": 6,
+      "document_type": "pdf",
+      "text_length": 780,
+      "chunk_id": 5,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 6,
+    "text": "Item\nDetails\nCompany Name\nAura Retail Enterprises\nIndustry\nRetail and E-Commerce\nHead Office\nLahore, Punjab, Pakistan\nFulfilment Centres\nLahore, Karachi and Islamabad\nProduct Categories\nMobiles and Accessories, Electronics, Home Appliances, Fashion, Footwear, Furniture,\nKitchenware, Grocery Gift Packs\nCurrency\nPakistani Rupee (PKR)\nSupport Hours\nMonday to Saturday: 9:00 AM - 9:00 PM (PKT). Sunday: 11:00 AM - 7:00 PM (PKT)\nSupport E-mail\nsupport@auraretail.com.pk (sample address)\nUAN Helpline\n042-111-000-287 (sample number)\nWhatsApp Support\n0300-0000287 (sample number)\nLanguages Supported\nUrdu, English, Punjabi (basic)\nAgent Note\nContact details above are sample placeholders. Replace them with the official company numbers before",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 3,
+      "chunk_number": 7,
+      "document_type": "pdf",
+      "text_length": 737,
+      "chunk_id": 6,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 7,
+    "text": "Urdu, English, Punjabi (basic)\nAgent Note\nContact details above are sample placeholders. Replace them with the official company numbers before\ndeployment. Never share personal numbers of staff members with customers.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 3,
+      "chunk_number": 8,
+      "document_type": "pdf",
+      "text_length": 216,
+      "chunk_id": 7,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 8,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 4\n3. Agent Role, Tone and Communication Standards\nEvery agent represents the Aura Retail brand. Customers contact support when they are worried, confused or\ndissatisfied, so the quality of the interaction is as important as the solution itself.\n3.1 Core Service Principles\n\nBe polite and respectful: always address customers as Sir, Madam or by name (for example, Ali Sahib,\nAyesha Madam).\n\nBe clear and honest: never promise what the policy does not allow. If something is not possible, explain why\nand offer an alternative.\n\nBe empathetic: acknowledge the inconvenience before explaining the policy.\n",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 4,
+      "chunk_number": 9,
+      "document_type": "pdf",
+      "text_length": 759,
+      "chunk_id": 8,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 9,
+    "text": "and offer an alternative.\n\nBe empathetic: acknowledge the inconvenience before explaining the policy.\n\nBe efficient: resolve the issue in the first contact whenever possible.\n\nBe consistent: give the same answer that any other trained agent would give.\n\nTake ownership: do not blame other departments, couriers or the customer.\n3.2 Tone of Voice by Situation\n Situation\nRecommended Tone\nExample Opening\nGeneral inquiry\nFriendly, helpful\n\"Thank you for contacting Aura Retail. How may I assist you\ntoday?\"\nDelayed order\nApologetic, reassuring\n\"I sincerely apologize for the delay. Let me check your order\nright away.\"\nAngry customer\nCalm, patient, empathetic\n\"I understand your frustration, and I will do my best to fix this\nfor you.\"\nRefund request\nProfessional, transparent",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 4,
+      "chunk_number": 10,
+      "document_type": "pdf",
+      "text_length": 778,
+      "chunk_id": 9,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 10,
+    "text": "Calm, patient, empathetic\n\"I understand your frustration, and I will do my best to fix this\nfor you.\"\nRefund request\nProfessional, transparent\n\"I can help with that. Let me explain the refund process and\ntimeline.\"\nRequest outside policy\nFirm yet kind\n\"I am unable to do that, but here is what I can offer instead.\"\n3.3 Response Time Standards (SLA)\n Channel\nFirst Response\nTarget Resolution\nPhone (UAN)\nAnswer within 30 seconds\nSame call (80% of cases)\nWhatsApp\nWithin 15 minutes\nWithin 4 working hours\nLive Chat / AI Assistant\nWithin 60 seconds\nSame session\nE-mail\nWithin 24 hours\nWithin 48 hours\nSocial Media (DM / Comments)\nWithin 2 hours\nWithin 24 hours\n3.4 Language and Writing Rules\n\nReply in the language the customer uses (Urdu, Roman Urdu or English).\n",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 4,
+      "chunk_number": 11,
+      "document_type": "pdf",
+      "text_length": 764,
+      "chunk_id": 10,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 11,
+    "text": "Within 2 hours\nWithin 24 hours\n3.4 Language and Writing Rules\n\nReply in the language the customer uses (Urdu, Roman Urdu or English).\n\nKeep sentences short and avoid internal jargon such as \"RTO\" or \"SLA breach\" when speaking with\ncustomers.\n\nNever use sarcasm, slang or emojis excessively; one friendly emoji in chat is acceptable.\n\nAlways close the conversation with a summary of the next step and the expected timeline.\n\nNever argue, raise your voice, or end the conversation abruptly.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 4,
+      "chunk_number": 12,
+      "document_type": "pdf",
+      "text_length": 493,
+      "chunk_id": 11,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 12,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 5\n4. Customer Verification and Data Privacy\nCustomer information is confidential. Before sharing any order detail or making any change to an order, the agent\nmust verify that the person contacting support is the genuine account or order holder.\n4.1 Mandatory Verification Steps\n Request Type\nVerification Required\nGeneral product / policy questions\nNone (public information)\nOrder status check\nOrder ID and registered contact number\nChange of shipping address or contact number\nOrder ID, customer full name and registered contact number\nCancellation or return request\nOrder ID, customer full name and registered contact number",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 5,
+      "chunk_number": 13,
+      "document_type": "pdf",
+      "text_length": 779,
+      "chunk_id": 12,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 13,
+    "text": "Order ID, customer full name and registered contact number\nCancellation or return request\nOrder ID, customer full name and registered contact number\nRefund status or bank / wallet details\nOrder ID, full name, registered number and last 4 digits of payment\nmethod\n4.2 Data Handling Rules\n\nNever share a customer's address, phone number or order history with any third person.\n\nNever ask customers for full card numbers, CVV, PIN or online banking passwords. Company staff will never\nask for these.\n\nNever request an OTP from the customer for verification. If a customer receives a suspicious OTP request,\nadvise them not to share it.\n\nDo not write customer data on paper, personal phones or personal messaging accounts.\n",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 5,
+      "chunk_number": 14,
+      "document_type": "pdf",
+      "text_length": 724,
+      "chunk_id": 13,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 14,
+    "text": "advise them not to share it.\n\nDo not write customer data on paper, personal phones or personal messaging accounts.\n\nShare only the minimum information required to answer the customer's question.\n\nReport any suspected data leak or fraud attempt to the supervisor immediately.\nAgent Note (AI Agents)\nWhen using the order database, retrieve data only for the Order ID provided by the customer. Never list, export or\nsummarize multiple customers' records. If the contact number does not match the one on the order, do not reveal\nany order details and politely request correct information.\n4.3 Suspected Fraud Indicators\n\nCustomer requests delivery to a different address immediately after the order is shipped.\n\nMultiple high-value orders from the same number with different names and addresses.\n",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 5,
+      "chunk_number": 15,
+      "document_type": "pdf",
+      "text_length": 798,
+      "chunk_id": 14,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 15,
+    "text": "\nMultiple high-value orders from the same number with different names and addresses.\n\nCaller refuses to verify but demands refund or order changes urgently.\n\nRequests to send refunds to a third-party account not linked to the original payment.\n5. Order Management Policy\nOrders are placed through the website, mobile app or by phone and are recorded in the order database with a\nunique Order ID in the format ORD-2026-XXXX. The order database contains: Order ID, Customer Name,\nContact Number, Product, Order Date, Shipping Address and Status.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 5,
+      "chunk_number": 16,
+      "document_type": "pdf",
+      "text_length": 546,
+      "chunk_id": 15,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 16,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 6\n5.1 Order Status Definitions\n Status\nMeaning\nWhat the Agent Can Do\nPending\nOrder received; payment or confirmation not yet\ncomplete.\nConfirm details; customer may cancel free of\ncharge.\nProcessing\nOrder confirmed; being packed at the fulfilment\ncentre.\nUpdate address / contact; cancel on request.\nShipped\nHanded over to the courier partner.\nShare tracking info; address change not\nguaranteed.\nOut for Delivery\nCourier rider is on the way to the customer.\nAdvise customer to keep phone available; no\nchanges allowed.\nDelivered\nParcel received by the customer.\nHandle returns, exchanges or warranty if\napplicable.\nCancelled",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 6,
+      "chunk_number": 17,
+      "document_type": "pdf",
+      "text_length": 777,
+      "chunk_id": 16,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 17,
+    "text": "changes allowed.\nDelivered\nParcel received by the customer.\nHandle returns, exchanges or warranty if\napplicable.\nCancelled\nOrder cancelled by customer or company.\nExplain refund timeline if payment was made.\nReturned\nProduct returned to Aura Retail after delivery or\nfailed delivery.\nCheck refund / replacement status.\n5.2 Order Processing Timelines\n Stage\nStandard Time\nOrder confirmation (call / SMS)\nWithin 2 hours of placing the order\nPacking and dispatch\nWithin 24 - 48 working hours\nDispatch to delivery\nSee Section 6 (Shipping and Delivery)\nTracking ID shared with customer\nWithin 24 hours of dispatch via SMS / WhatsApp\n5.3 Changing Order Details\n\nShipping address or phone number: can be changed only while the status is Pending or Processing.\n",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 6,
+      "chunk_number": 18,
+      "document_type": "pdf",
+      "text_length": 755,
+      "chunk_id": 17,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 18,
+    "text": "5.3 Changing Order Details\n\nShipping address or phone number: can be changed only while the status is Pending or Processing.\n\nProduct change (size, color, model): allowed only before dispatch, subject to stock availability.\n\nAdding items to an existing order: not possible; the customer must place a new order.\n\nEvery change must be logged in the order notes with agent name, date and time.\nAgent Note\nAlways read the Status field first. The answer to most order questions depends on it. If the status is Shipped or\nlater, do not promise any change; offer to raise a request with the courier and inform the customer that the\noutcome is not guaranteed.\n6. Shipping and Delivery Policy",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 6,
+      "chunk_number": 19,
+      "document_type": "pdf",
+      "text_length": 687,
+      "chunk_id": 18,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 19,
+    "text": "outcome is not guaranteed.\n6. Shipping and Delivery Policy\nAura Retail delivers to all major cities and most towns in Pakistan through trusted courier partners. Delivery times\nare estimates calculated in working days (Monday to Saturday, excluding public holidays) from the date of\ndispatch.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 6,
+      "chunk_number": 20,
+      "document_type": "pdf",
+      "text_length": 291,
+      "chunk_id": 19,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 20,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 7\n6.1 Delivery Timelines\n Zone\nCities / Areas (Examples)\nStandard Delivery\nExpress Delivery\nZone A - Major Cities\nLahore, Karachi, Islamabad, Rawalpindi,\nFaisalabad, Gujranwala, Multan\n2 - 4 working days\n1 - 2 working days\nZone B - Other Cities\nSialkot, Sargodha, Bahawalpur,\nHyderabad, Peshawar, Sukkur, Gujrat\n4 - 6 working days\n2 - 3 working days\nZone C - Remote\nAreas\nQuetta, Gilgit, Skardu, Chitral, Gwadar,\nrural / tehsil areas\n6 - 9 working days\nNot available\n6.2 Shipping Charges\n Order Value\nZone A\nZone B\nZone C\nBelow PKR 5,000\nPKR 200\nPKR 300\nPKR 400\nPKR 5,000 and above\nFree\nFree\nPKR 200\nExpress delivery surcharge\n+ PKR 450\n+ PKR 450",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 7,
+      "chunk_number": 21,
+      "document_type": "pdf",
+      "text_length": 799,
+      "chunk_id": 20,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 21,
+    "text": "Zone A\nZone B\nZone C\nBelow PKR 5,000\nPKR 200\nPKR 300\nPKR 400\nPKR 5,000 and above\nFree\nFree\nPKR 200\nExpress delivery surcharge\n+ PKR 450\n+ PKR 450\nNot available\nCash on Delivery handling fee\nPKR 100 per order\nPKR 100 per order\nPKR 100 per order\n6.3 Delivery Attempts and Failed Delivery\n\nThe courier makes up to 3 delivery attempts on consecutive working days.\n\nIf the customer is unreachable after 3 attempts, the parcel is returned to the warehouse. Prepaid orders are\nrefunded after deducting shipping charges; COD orders are cancelled.\n\nCustomers may request re-delivery or pickup from the nearest courier office by contacting support.\n\nDeliveries are made only to the address on the order. A different person may receive the parcel if the customer\nauthorizes them.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 7,
+      "chunk_number": 22,
+      "document_type": "pdf",
+      "text_length": 772,
+      "chunk_id": 21,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 22,
+    "text": "\nDeliveries are made only to the address on the order. A different person may receive the parcel if the customer\nauthorizes them.\n6.4 Delayed or Lost Parcels\n Situation\nAgent Action\nResolution Time\nParcel delayed by 1 - 2 days beyond\nestimate\nApologize, check tracking, share update\nSame day\nParcel delayed by more than 3 days\nRaise priority ticket with courier; inform customer\nof follow-up time\nUpdate within 24 hours\nParcel marked Delivered but customer has\nnot received it\nVerify with courier proof of delivery; escalate to\nsupervisor\n48 hours\nParcel confirmed lost\nOffer replacement or full refund (customer's\nchoice)\nWithin 5 working days\nParcel damaged on arrival\nAsk for photos/video; arrange replacement or\nrefund\nWithin 3 working days\nAgent Note",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 7,
+      "chunk_number": 23,
+      "document_type": "pdf",
+      "text_length": 756,
+      "chunk_id": 22,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 23,
+    "text": "choice)\nWithin 5 working days\nParcel damaged on arrival\nAsk for photos/video; arrange replacement or\nrefund\nWithin 3 working days\nAgent Note\nNever blame the courier directly in front of the customer. Say: \"I will personally follow up with our delivery team.\"\nCustomers should inspect the parcel in front of the rider and report visible damage within 24 hours.\n7. Payment Policy\nAura Retail offers multiple secure payment methods suitable for customers across Pakistan. All online payments\nare processed through PCI-DSS compliant payment gateways.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 7,
+      "chunk_number": 24,
+      "document_type": "pdf",
+      "text_length": 546,
+      "chunk_id": 23,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 24,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 8\n7.1 Accepted Payment Methods\n Method\nDetails\nNotes\nCash on Delivery (COD)\nPay cash to the courier rider on delivery\nPKR 100 handling fee; maximum order\nvalue PKR 150,000\nJazzCash / Easypaisa\nMobile wallet payment via app or account\nnumber\nInstant confirmation\nDebit / Credit Card\nVisa and Mastercard (including Pakistani bank\ncards)\n3D Secure OTP verification required\nBank Transfer / Raast\nTransfer to company's official bank account\nOrder held until payment is verified (up to\n24 hours)\nInstallments\nSelected banks' credit card installment plans (3,\n6, 12 months)\nAvailable on orders above PKR 20,000;\nbank terms apply\n7.2 Payment Rules\n",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 8,
+      "chunk_number": 25,
+      "document_type": "pdf",
+      "text_length": 795,
+      "chunk_id": 24,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 25,
+    "text": "Selected banks' credit card installment plans (3,\n6, 12 months)\nAvailable on orders above PKR 20,000;\nbank terms apply\n7.2 Payment Rules\n\nPrices are displayed in PKR and include applicable taxes (GST) unless otherwise stated.\n\nOrders paid by bank transfer must include the Order ID as payment reference.\n\nIf a payment is deducted but the order is not confirmed, the amount is automatically reversed within 3 - 7\nworking days. Agents should ask for a screenshot or transaction ID to trace it faster.\n\nCompany staff will never ask customers to pay into a personal account or send money through an unofficial\nlink.\n7.3 Promotions and Discount Vouchers\n\nOnly one voucher can be used per order and vouchers cannot be combined with other offers unless stated.\n",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 8,
+      "chunk_number": 26,
+      "document_type": "pdf",
+      "text_length": 760,
+      "chunk_id": 25,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 26,
+    "text": "7.3 Promotions and Discount Vouchers\n\nOnly one voucher can be used per order and vouchers cannot be combined with other offers unless stated.\n\nVouchers are non-transferable and have no cash value.\n\nIf an order is cancelled, a used voucher is re-issued once, valid for 7 days, at the company's discretion.\n\nAgents cannot create or approve discounts. Pricing disputes must be escalated to the supervisor.\n8. Cancellation Policy\nCustomers may cancel an order depending on its current status. The earlier the request is made, the simpler the\nprocess.\nOrder Status\nCan the Order Be Cancelled?\nCharges / Outcome\nPending\nYes\nNo charges. Full refund of any amount paid.\nProcessing\nYes\nNo charges. Full refund within the standard refund\ntimeline.\nShipped\nNot directly - customer may refuse\ndelivery",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 8,
+      "chunk_number": 27,
+      "document_type": "pdf",
+      "text_length": 793,
+      "chunk_id": 26,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 27,
+    "text": "Processing\nYes\nNo charges. Full refund within the standard refund\ntimeline.\nShipped\nNot directly - customer may refuse\ndelivery\nPrepaid: refund after parcel returns, minus shipping fee.\nCOD: no charge but repeated refusals may restrict\nCOD.\nOut for Delivery\nNo - customer may refuse parcel at\nthe door\nSame as Shipped.\nDelivered\nNo - follow the Return Policy\nSee Section 9.\nAgent Note\nBefore processing a cancellation, ask politely for the reason and note it in the system. If the reason is delay, price\nor a wrong item, offer an alternative once (for example, a faster delivery or a replacement), but never pressure\nthe customer.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 8,
+      "chunk_number": 28,
+      "document_type": "pdf",
+      "text_length": 630,
+      "chunk_id": 27,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 28,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 9\n9. Return and Refund Policy\nCustomer satisfaction is important to us. Customers may return eligible products within the return window\nprovided the product meets the conditions below.\n9.1 Return Window\n Product Category\nReturn Window (from\ndelivery)\nCondition\nFashion and Footwear\n7 days\nUnworn, unwashed, original tags and packaging\nintact\nMobiles, Laptops and\nElectronics\n7 days (Dead on Arrival / defect)\nSeal intact or verified manufacturing defect; all\naccessories included\nHome Appliances\n7 days (defect or damage)\nUnused or defective; original box and invoice\nrequired\nFurniture\n7 days (damage / wrong item)",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 9,
+      "chunk_number": 29,
+      "document_type": "pdf",
+      "text_length": 768,
+      "chunk_id": 28,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 29,
+    "text": "Home Appliances\n7 days (defect or damage)\nUnused or defective; original box and invoice\nrequired\nFurniture\n7 days (damage / wrong item)\nPhotos required; assembled items not accepted\nunless defective\nKitchenware\n7 days\nUnused, original packaging\n9.2 Non-Returnable Items\n\nInnerwear, hosiery, swimwear and personal hygiene products.\n\nEarphones, headphones and earbuds once the hygiene seal is opened (except for manufacturing defects).\n\nGrocery gift packs and perishable or consumable items.\n\nClearance, final-sale and customized or personalized products.\n\nItems damaged by misuse, water damage, burns, tampering or wrong installation.\n\nProducts returned after the return window has expired.\n9.3 Return Process\n Step\nAction\nResponsible\n1",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 9,
+      "chunk_number": 30,
+      "document_type": "pdf",
+      "text_length": 741,
+      "chunk_id": 29,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 30,
+    "text": "\nProducts returned after the return window has expired.\n9.3 Return Process\n Step\nAction\nResponsible\n1\nCustomer contacts support with Order ID and reason (photo / video for damage\nor defect).\nCustomer\n2\nAgent verifies identity, checks the order status and eligibility, and creates a\nreturn request.\nAgent\n3\nReverse pickup is scheduled within 1 - 2 working days (free for company errors /\ndefects).\nLogistics\n4\nProduct is received and inspected at the warehouse (2 - 3 working days).\nQuality Team\n5\nRefund or replacement is approved and processed.\nFinance / Agent",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 9,
+      "chunk_number": 31,
+      "document_type": "pdf",
+      "text_length": 562,
+      "chunk_id": 30,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 31,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 10\n9.4 Refund Timelines\n Original Payment Method\nRefund Method\nTimeline (after approval)\nJazzCash / Easypaisa\nSame wallet account\n3 - 5 working days\nDebit / Credit Card\nOriginal card\n7 - 10 working days (bank\ndependent)\nBank Transfer / Raast\nCustomer's verified bank account\n5 - 7 working days\nCash on Delivery\nBank transfer or mobile wallet (verified account title\nmust match customer name)\n5 - 7 working days\nStore Credit (optional)\nAura Retail wallet\nInstant; valid for 12 months\n9.5 Refund Approval Authority\n Refund Amount\nApproval Level\nUp to PKR 10,000\nCustomer Service Agent\nPKR 10,001 - 50,000\nTeam Leader / Supervisor\nAbove PKR 50,000",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 10,
+      "chunk_number": 32,
+      "document_type": "pdf",
+      "text_length": 797,
+      "chunk_id": 31,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 32,
+    "text": "Refund Amount\nApproval Level\nUp to PKR 10,000\nCustomer Service Agent\nPKR 10,001 - 50,000\nTeam Leader / Supervisor\nAbove PKR 50,000\nCustomer Service Manager\nSuspected fraud cases\nFraud and Risk Team (regardless of amount)\nAgent Note\nShipping charges are refunded only if the return is due to a company error (wrong, damaged or defective item).\nFor change-of-mind returns, the original shipping fee and COD handling fee are non-refundable and the return\npickup fee of PKR 250 may apply.\n10. Exchange and Warranty Policy\n10.1 Exchange Policy\n\nExchanges for size, color or model are allowed within 7 days of delivery, subject to stock availability.\n\nIf the replacement item costs more, the customer pays the difference; if it costs less, the difference is refunded",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 10,
+      "chunk_number": 33,
+      "document_type": "pdf",
+      "text_length": 762,
+      "chunk_id": 32,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 33,
+    "text": "\nIf the replacement item costs more, the customer pays the difference; if it costs less, the difference is refunded\nas store credit or to the original payment method.\n\nOnly one exchange is allowed per order item.\n\nIf the requested item is out of stock, the customer may choose a refund or store credit.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 10,
+      "chunk_number": 34,
+      "document_type": "pdf",
+      "text_length": 305,
+      "chunk_id": 33,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 34,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 11\n10.2 Warranty Coverage\n Product Type\nWarranty Period\nProvided By\nProcess\nSmartphones and Tablets\n1 year\nManufacturer / authorized\nservice centre\nCustomer visits brand service\ncentre with invoice\nLaptops and Computers\n1 year\nManufacturer\nService centre or pickup via\nAura Retail\nHome Appliances (AC, Fridge,\nMicrowave)\n1 - 2 years (brand\nspecific)\nManufacturer\nBrand helpline; Aura Retail\nassists with coordination\nSmall Appliances (Air Fryer,\nBlender)\n6 - 12 months\nManufacturer\nReplacement or repair\nAccessories (Charger, Power\nBank, Mouse)\n6 months\nAura Retail / brand\nReplacement after inspection\nFashion, Footwear, Furniture\nManufacturing",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 11,
+      "chunk_number": 35,
+      "document_type": "pdf",
+      "text_length": 798,
+      "chunk_id": 34,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 35,
+    "text": "Accessories (Charger, Power\nBank, Mouse)\n6 months\nAura Retail / brand\nReplacement after inspection\nFashion, Footwear, Furniture\nManufacturing\ndefect only (7 days)\nAura Retail\nSee Return Policy\n10.3 Warranty Exclusions\n\nPhysical damage, liquid damage, burn marks, voltage fluctuation damage or unauthorized repair.\n\nMissing or tampered serial number, warranty sticker or IMEI.\n\nNormal wear and tear and consumable parts (batteries after 6 months, filters, covers).\n\nProducts purchased outside Aura Retail's official channels.\nAgent Note\nAlways ask for the invoice or Order ID to confirm the purchase date. Do not diagnose technical faults; refer the\ncustomer to the authorized service centre and offer to log a support ticket.\n11. Complaint Handling and Escalation Matrix",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 11,
+      "chunk_number": 36,
+      "document_type": "pdf",
+      "text_length": 774,
+      "chunk_id": 35,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 36,
+    "text": "customer to the authorized service centre and offer to log a support ticket.\n11. Complaint Handling and Escalation Matrix\nA complaint is any expression of dissatisfaction about a product, service, agent behavior or company process.\nEvery complaint must be logged with a ticket number which is shared with the customer.\n11.1 Complaint Handling Procedure (L.E.A.R.N.)\n Step\nAction\nExample\nListen\nLet the customer finish without interrupting.\nAllow the customer to explain the full issue.\nEmpathize\nAcknowledge the feelings and inconvenience.\n\"I understand how upsetting this must be.\"\nApologize\nOffer a sincere apology on behalf of the company.\n\"I am sorry for the trouble you faced.\"\nResolve\nOffer a solution within policy or escalate promptly.\nReplacement, refund, re-delivery, or follow-up.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 11,
+      "chunk_number": 37,
+      "document_type": "pdf",
+      "text_length": 791,
+      "chunk_id": 36,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 37,
+    "text": "\"I am sorry for the trouble you faced.\"\nResolve\nOffer a solution within policy or escalate promptly.\nReplacement, refund, re-delivery, or follow-up.\nNote and Notify\nLog the ticket; confirm the next step and time.\n\"Your ticket number is T-20261045; we will\nupdate you within 24 hours.\"",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 11,
+      "chunk_number": 38,
+      "document_type": "pdf",
+      "text_length": 284,
+      "chunk_id": 37,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 38,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 12\n11.2 Complaint Categories and Priority\n Category\nPriority\nResolution Target\nWrong / damaged / defective product\nHigh\n3 working days\nParcel lost or marked delivered but not received\nHigh\n48 hours\nRefund delay beyond stated timeline\nHigh\n24 hours (follow-up)\nDelivery delay\nMedium\n24 - 48 hours\nAgent behavior / rudeness\nHigh\nSupervisor call within 24 hours\nWebsite, app or payment issue\nMedium\n2 working days\nGeneral feedback / suggestion\nLow\n5 working days\n11.3 Escalation Matrix\n Level\nRole\nWhen to Escalate\nAuthority\nLevel 1\nCustomer Service Agent\nFirst contact for every issue\nStandard policy actions; refunds\nup to PKR 10,000\nLevel 2",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 12,
+      "chunk_number": 39,
+      "document_type": "pdf",
+      "text_length": 793,
+      "chunk_id": 38,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 39,
+    "text": "When to Escalate\nAuthority\nLevel 1\nCustomer Service Agent\nFirst contact for every issue\nStandard policy actions; refunds\nup to PKR 10,000\nLevel 2\nTeam Leader /\nSupervisor\nCustomer asks for a supervisor; issue\nunresolved after 24 hours; refund above\nPKR 10,000\nApprove exceptions up to PKR\n50,000; goodwill gestures\nLevel 3\nCustomer Service\nManager\nRepeated complaints; legal threats; media /\nsocial media escalation; refund above PKR\n50,000\nFinal decision on exceptions\nLevel 4\nHead of Customer\nExperience\nRegulatory complaints, consumer court\nnotices, major incidents\nPolicy-level decisions\nAgent Note\nEscalate immediately (do not wait for the customer to ask) in cases involving: legal threats, safety issues (for",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 12,
+      "chunk_number": 40,
+      "document_type": "pdf",
+      "text_length": 715,
+      "chunk_id": 39,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 40,
+    "text": "Policy-level decisions\nAgent Note\nEscalate immediately (do not wait for the customer to ask) in cases involving: legal threats, safety issues (for\nexample an overheating device or electric shock), harassment, suspected fraud or any media / social media\ncomplaint.\n12. Agent Knowledge Base Notes\nThis section contains practical notes, decision rules and tool-usage guidance for agents. It is especially important\nfor the AI support agent built on CrewAI.\n12.1 Do's and Don'ts\n Do\nDon't\nVerify the customer before sharing order details.\nShare order information with unverified callers.\nCheck the Status field before answering any order query.\nGuess the order status or delivery date.\nQuote timelines as ranges (for example, 2 - 4 working\ndays).\nPromise exact delivery dates or times.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 12,
+      "chunk_number": 41,
+      "document_type": "pdf",
+      "text_length": 781,
+      "chunk_id": 40,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 41,
+    "text": "Guess the order status or delivery date.\nQuote timelines as ranges (for example, 2 - 4 working\ndays).\nPromise exact delivery dates or times.\nOffer alternatives when something is not possible.\nSay \"it is not possible\" without explanation.\nLog every interaction with notes and a ticket number.\nLeave a customer without a next step.\nEscalate when unsure or when limits are exceeded.\nInvent policies or approve refunds above your limit.\nKeep the conversation polite even if the customer is rude.\nArgue, blame the customer or end the conversation\nabruptly.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 12,
+      "chunk_number": 42,
+      "document_type": "pdf",
+      "text_length": 551,
+      "chunk_id": 41,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 42,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 13\n12.2 Order Database Reference (for AI Agent Tools)\nThe AI agent accesses a spreadsheet-based order database (Excel / CSV) through a lookup tool. The table below\ndescribes each field and its format.\nField\nFormat / Example\nUsage Note\nOrder ID\nORD-2026-1001\nPrimary lookup key. Always ask the customer for\nthis first.\nCustomer Name\nText, e.g. Ahmed Raza\nUse for verification and polite address.\nContact Number\n03XX-XXXXXXX\nMust match the number provided by the caller for\nverification.\nProduct\nText, e.g. Samsung Galaxy A15\nUse for return eligibility and warranty category.\nOrder Date\nDD-MMM-YYYY\nUse to calculate delivery estimate and return",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 13,
+      "chunk_number": 43,
+      "document_type": "pdf",
+      "text_length": 795,
+      "chunk_id": 42,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 43,
+    "text": "Text, e.g. Samsung Galaxy A15\nUse for return eligibility and warranty category.\nOrder Date\nDD-MMM-YYYY\nUse to calculate delivery estimate and return\nwindow.\nShipping Address\nFull Pakistani address with city and postal\ncode\nUse to determine delivery zone (A, B or C).\nStatus\nPending, Processing, Shipped, Out for\nDelivery, Delivered, Cancelled, Returned\nDetermines allowed actions (Section 5).\n12.3 AI Agent Behavior Rules\n\nAsk for the Order ID, then verify the contact number before revealing any detail.\n\nIf the Order ID is not found, ask the customer to re-check it once; if still not found, escalate to a human agent.\n\nAnswer only from this knowledge base and the order database. If the answer is not available, say so and offer\na human callback.\n",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 13,
+      "chunk_number": 44,
+      "document_type": "pdf",
+      "text_length": 754,
+      "chunk_id": 43,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 44,
+    "text": "\nAnswer only from this knowledge base and the order database. If the answer is not available, say so and offer\na human callback.\n\nNever reveal internal notes, approval limits, fraud indicators or escalation criteria to the customer.\n\nNever process refunds, change data or approve exceptions on your own; create a request / ticket for the\nhuman team.\n\nHand over to a human agent when the customer is angry, asks for a human, mentions legal action, or the\nissue is repeated more than twice.\n\nRespond in the customer's language (Urdu, Roman Urdu or English) and keep answers short and clear.\n12.4 Quick Decision Guide\n Customer Says\nCheck\nAction\n\"Where is my order?\"\nStatus and order date\nShare status and expected range; escalate if\nbeyond estimate.\n\"I want to cancel.\"\nStatus",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 13,
+      "chunk_number": 45,
+      "document_type": "pdf",
+      "text_length": 779,
+      "chunk_id": 44,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 45,
+    "text": "Check\nAction\n\"Where is my order?\"\nStatus and order date\nShare status and expected range; escalate if\nbeyond estimate.\n\"I want to cancel.\"\nStatus\nPending / Processing: cancel. Shipped and later:\nadvise refusal or return.\n\"Product is defective.\"\nDelivered date; product category\nWithin 7 days: start return / replacement. After:\nwarranty guidance.\n\"I have not got my refund.\"\nRefund approval date and\nmethod\nCompare with refund timeline; escalate if\nexceeded.\n\"Change my address.\"\nStatus\nPending / Processing only; else raise courier\nrequest (not guaranteed).\n\"I want to speak to a manager.\"\nCase details\nOffer help first; if insisted, escalate to supervisor.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 13,
+      "chunk_number": 46,
+      "document_type": "pdf",
+      "text_length": 657,
+      "chunk_id": 45,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 46,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 14\n13. Sample Conversation Scripts\nThe following examples demonstrate the expected quality of service. Agents may adapt wording but must keep\nthe structure: greet, verify, resolve, confirm and close.\n13.1 Order Tracking\n Speaker\nMessage\nCustomer\nAssalam o Alaikum, mera order abhi tak nahi aaya. Order ID ORD-2026-1042 hai.\nAgent\nWalaikum Assalam! Thank you for contacting Aura Retail. For verification, may I please have your\nregistered mobile number?\nCustomer\n0300-1234567.\nAgent\nThank you, Sir. Your order is currently Shipped and is expected to reach you within 2 - 3 working",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 14,
+      "chunk_number": 47,
+      "document_type": "pdf",
+      "text_length": 732,
+      "chunk_id": 46,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 47,
+    "text": "Customer\n0300-1234567.\nAgent\nThank you, Sir. Your order is currently Shipped and is expected to reach you within 2 - 3 working\ndays. I apologize for the wait. Is there anything else I can help with?\n13.2 Return Request\n Speaker\nMessage\nCustomer\nI received my shoes yesterday but the size is too small. I want to return them.\nAgent\nI am sorry about the inconvenience, Madam. Since the shoes are within the 7-day window and\nunused, I can arrange either an exchange for a different size or a return. Which would you prefer?\nCustomer\nPlease exchange for size 40.\nAgent\nCertainly. I have created an exchange request; our rider will collect the parcel within 1 - 2 working days\nand the new size will be dispatched after inspection. Your ticket number is T-20261077.\n13.3 Angry Customer (Delayed Order)",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 14,
+      "chunk_number": 48,
+      "document_type": "pdf",
+      "text_length": 795,
+      "chunk_id": 47,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 48,
+    "text": "and the new size will be dispatched after inspection. Your ticket number is T-20261077.\n13.3 Angry Customer (Delayed Order)\n Speaker\nMessage\nCustomer\nThis is the worst service! I ordered 10 days ago and nobody is responding!\nAgent\nI completely understand your frustration, Sir, and I sincerely apologize. Let me check your order\nimmediately. May I have your Order ID, please?\nAgent (after checking)\nI have found the delay and have raised a priority ticket with the courier. You will receive an\nupdate from me within 24 hours. If it does not arrive in 48 hours, I will arrange a replacement or\nrefund, as you prefer.\nAgent Note\nIn the last example, the 48-hour offer is allowed only if the supervisor has approved it for this case or the delay",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 14,
+      "chunk_number": 49,
+      "document_type": "pdf",
+      "text_length": 742,
+      "chunk_id": 48,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 49,
+    "text": "refund, as you prefer.\nAgent Note\nIn the last example, the 48-hour offer is allowed only if the supervisor has approved it for this case or the delay\nalready exceeds the policy limit. Never promise compensation that is not listed in this document.\n14. Frequently Asked Questions (FAQs)\nUse the answers below as approved responses. Adapt the wording to the customer's language and situation but\ndo not change the facts, numbers or timelines.\nQ1. How long does delivery take?\n A: Zone A cities take 2 - 4 working days, Zone B 4 - 6 working days and Zone C 6 - 9 working days from\ndispatch. Express delivery (1 - 3 working days) is available in Zones A and B.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 14,
+      "chunk_number": 50,
+      "document_type": "pdf",
+      "text_length": 656,
+      "chunk_id": 49,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 50,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 15\nQ2. Is delivery free?\n A: Delivery is free for orders of PKR 5,000 and above in Zones A and B. Below this amount, charges are PKR\n200 - 400 depending on the zone.\nQ3. Do you offer Cash on Delivery?\n A: Yes, COD is available for orders up to PKR 150,000 with a PKR 100 handling fee.\nQ4. Can I pay in installments?\n A: Yes, selected bank credit cards offer 3, 6 and 12-month plans on orders above PKR 20,000, subject to bank\napproval.\nQ5. How can I track my order?\n A: Share your Order ID and registered mobile number with support, or use the tracking link sent by SMS or\nWhatsApp after dispatch.\nQ6. Can I change my shipping address?",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 15,
+      "chunk_number": 51,
+      "document_type": "pdf",
+      "text_length": 788,
+      "chunk_id": 50,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 51,
+    "text": "WhatsApp after dispatch.\nQ6. Can I change my shipping address?\n A: Yes, only while the order is Pending or Processing. After dispatch, a courier request can be raised but is not\nguaranteed.\nQ7. Can I cancel my order?\n A: Yes, free of charge while the order is Pending or Processing. After dispatch, you may refuse delivery.\nQ8. What is the return period?\n A: 7 days from the date of delivery for eligible products in unused condition with original packaging.\nQ9. Which items cannot be returned?\n A: Innerwear, hygiene items, opened earphones, grocery packs, clearance and customized items, and\nproducts damaged by misuse.\nQ10. Who pays the return shipping?\n A: Aura Retail pays when the item is wrong, damaged or defective. For change-of-mind returns, a PKR 250\npickup fee may apply.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 15,
+      "chunk_number": 52,
+      "document_type": "pdf",
+      "text_length": 783,
+      "chunk_id": 51,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 52,
+    "text": "A: Aura Retail pays when the item is wrong, damaged or defective. For change-of-mind returns, a PKR 250\npickup fee may apply.\nQ11. How long does a refund take?\n A: Wallets 3 - 5 days, cards 7 - 10 days, bank transfer or COD refunds 5 - 7 working days after the return is\napproved.\nQ12. Why was my refund deducted?\n A: Shipping and COD fees are non-refundable on change-of-mind returns. Full refunds are given for company\nerrors.\nQ13. I received a wrong item. What should I do?\n A: Contact support within 48 hours with photos and your Order ID. We will arrange a free pickup and send the\ncorrect item.\nQ14. My product stopped working after 2 months. Is it covered?\n A: Yes, if covered under the manufacturer warranty. Please visit the authorized service centre with your",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 15,
+      "chunk_number": 53,
+      "document_type": "pdf",
+      "text_length": 769,
+      "chunk_id": 52,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 53,
+    "text": "A: Yes, if covered under the manufacturer warranty. Please visit the authorized service centre with your\ninvoice; our team can guide you.\nQ15. Do you provide warranty on mobiles?\n A: Yes, mobiles carry a 1-year manufacturer warranty, excluding physical or water damage.\nQ16. My payment was deducted but the order is not confirmed.\n A: Please share the transaction ID or screenshot. Failed transactions are reversed automatically in 3 - 7\nworking days.\nQ17. Can I use two discount vouchers together?\n A: No, only one voucher is allowed per order unless the promotion states otherwise.\nQ18. What if I am not available at delivery time?\n A: The courier makes up to 3 attempts. You can also ask support to reschedule or nominate another receiver.",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 15,
+      "chunk_number": 54,
+      "document_type": "pdf",
+      "text_length": 742,
+      "chunk_id": 53,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 54,
+    "text": "Aura Retail Enterprises\nCustomer Service Knowledge Base & Agent Policy Guidelines\nConfidential - Internal Use Only  |  Version 1.0  |  October 2026\nPage 16\nQ19. Is it safe to share my card details with an agent?\n A: No. Our staff will never ask for card numbers, PIN, CVV or OTP. Please report such requests immediately.\nQ20. How do I make a complaint?\n A: Contact support through phone, WhatsApp, e-mail or chat. You will receive a ticket number and a resolution\ntimeline.\nQ21. What are your support hours?\n A: Monday to Saturday 9:00 AM - 9:00 PM and Sunday 11:00 AM - 7:00 PM (PKT).\nQ22. Do you deliver to remote areas?\n A: Yes, Zone C areas are served within 6 - 9 working days. Express delivery is not available there.\nQ23. Can I get a duplicate invoice?",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 16,
+      "chunk_number": 55,
+      "document_type": "pdf",
+      "text_length": 759,
+      "chunk_id": 54,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 55,
+    "text": "A: Yes, Zone C areas are served within 6 - 9 working days. Express delivery is not available there.\nQ23. Can I get a duplicate invoice?\n A: Yes. After verification, an invoice copy can be e-mailed to the registered address within 24 hours.\nQ24. Will I get a refund if I refuse the parcel at the door?\n A: Prepaid orders are refunded after the parcel returns to our warehouse, minus the shipping fee. COD orders\nhave no charge.\n15. Glossary and Revision History\n15.1 Glossary\n Term\nMeaning\nCOD\nCash on Delivery - payment made to the courier on receipt.\nDOA\nDead on Arrival - a product that does not work when first opened.\nPKT\nPakistan Standard Time (UTC +5).\nSLA\nService Level Agreement - the committed response and resolution time.\nRaast",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 16,
+      "chunk_number": 56,
+      "document_type": "pdf",
+      "text_length": 738,
+      "chunk_id": 55,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 56,
+    "text": "PKT\nPakistan Standard Time (UTC +5).\nSLA\nService Level Agreement - the committed response and resolution time.\nRaast\nPakistan's instant payment system operated by the State Bank of Pakistan.\nReverse Pickup\nCourier collecting a parcel from the customer for return or exchange.\nTicket\nA unique record number (for example T-20261045) created for every query or complaint.\nCSAT\nCustomer Satisfaction Score collected after each interaction.\nFirst Contact Resolution\nResolving the customer's issue in the first interaction.\n15.2 Quality Standards for Agents\n Metric\nTarget\nCustomer Satisfaction (CSAT)\n90% or above\nFirst Contact Resolution\n80% or above\nAverage Handling Time (calls)\nUnder 6 minutes\nQuality Assurance Score\n85% or above\nEscalation Accuracy\n95% (correct and timely escalations)",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 16,
+      "chunk_number": 57,
+      "document_type": "pdf",
+      "text_length": 786,
+      "chunk_id": 56,
+      "total_chunks": 58
+    }
+  },
+  {
+    "chunk_id": 57,
+    "text": "Average Handling Time (calls)\nUnder 6 minutes\nQuality Assurance Score\n85% or above\nEscalation Accuracy\n95% (correct and timely escalations)\n15.3 Revision History\n Version\nDate\nDescription\nApproved By\n1.0\n01 Oct 2026\nInitial release of Customer Service Knowledge Base and\nAgent Policy Guidelines\nHead of Customer\nExperience",
+    "metadata": {
+      "source_filename": "Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "source_path": "kb_pdfs/Aura_Retail_Customer_Service_Knowledge_Base.pdf",
+      "page_number": 16,
+      "chunk_number": 58,
+      "document_type": "pdf",
+      "text_length": 322,
+      "chunk_id": 57,
+      "total_chunks": 58
+    }
+  }
+]
